@@ -1,1 +1,2 @@
-# Hotel_Managament_System
+# Hotel
+Hotel Management System [Front-end]
